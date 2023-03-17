@@ -1,0 +1,540 @@
+{
+    "tidyup_office": {
+        "chore_id": "tidyup_office",
+        "name": "tidy up",
+        "frequency": 2,
+        "room": "office",
+        "blacklist": [
+            "Nico",
+            "Mya",
+            "Mom"
+        ],
+        "assigned_to": "Dad",
+        "date_assigned": "2023-03-16",
+        "completed": true,
+        "date_completed": "2023-03-16",
+        "point_value": 1
+    },
+    "windows_mya's": {
+        "chore_id": "windows_mya's",
+        "name": "windows",
+        "frequency": 42,
+        "room": "Mya's room",
+        "blacklist": [
+            "Mom"
+        ],
+        "assigned_to": "Mya",
+        "date_assigned": "2023-03-11",
+        "completed": true,
+        "date_completed": "2023-03-16",
+        "point_value": 1
+    },
+    "tidyup_mya's": {
+        "chore_id": "tidyup_mya's",
+        "name": "tidy up",
+        "frequency": 2,
+        "room": "Mya's room",
+        "blacklist": [
+            "Mom",
+            "Dad"
+        ],
+        "assigned_to": "Mom",
+        "date_assigned": "2023-03-16",
+        "completed": true,
+        "date_completed": "2023-03-16",
+        "point_value": 1
+    },
+    "windows_masterbed": {
+        "chore_id": "windows_masterbed",
+        "name": "windows",
+        "frequency": 42,
+        "room": "master bedroom",
+        "blacklist": [
+            "Mom"
+        ],
+        "assigned_to": "Mya",
+        "date_assigned": "2023-03-16",
+        "completed": true,
+        "date_completed": "2023-03-16",
+        "point_value": 1
+    },
+    "tidyup_masterbed": {
+        "chore_id": "tidyup_masterbed",
+        "name": "tidy up",
+        "frequency": 2,
+        "room": "master bedroom",
+        "blacklist": [
+            "Mya",
+            "Nico",
+            "Mom"
+        ],
+        "assigned_to": "Dad",
+        "date_assigned": "2023-03-16",
+        "completed": true,
+        "date_completed": "2023-03-16",
+        "point_value": 1
+    },
+    "washbedding_masterbed": {
+        "chore_id": "washbedding_masterbed",
+        "name": "wash bedding",
+        "frequency": 60,
+        "room": "master bedroom",
+        "blacklist": [
+            "Nico",
+            "Mya",
+            "Mom"
+        ],
+        "assigned_to": "",
+        "date_assigned": "2023-03-16",
+        "completed": true,
+        "date_completed": "2023-03-16",
+        "point_value": 1
+    },
+    "vacuum_play": {
+        "chore_id": "vacuum_play",
+        "name": "vacuum",
+        "frequency": 21,
+        "room": "playroom",
+        "blacklist": [
+            "Nico",
+            "Mom"
+        ],
+        "assigned_to": "Dad",
+        "date_assigned": "2023-03-16",
+        "completed": true,
+        "date_completed": "2023-03-16",
+        "point_value": 1
+    },
+    "windows_play": {
+        "chore_id": "windows_play",
+        "name": "windows",
+        "frequency": 42,
+        "room": "playroom",
+        "blacklist": [
+            "Mom",
+            "Dad"
+        ],
+        "assigned_to": "Mya",
+        "date_assigned": "2023-03-16",
+        "completed": true,
+        "date_completed": "2023-03-16",
+        "point_value": 1
+    },
+    "tidyup_play": {
+        "chore_id": "tidyup_play",
+        "name": "tidy up",
+        "frequency": 2,
+        "room": "playroom",
+        "blacklist": [
+            "Dad",
+            "Mom"
+        ],
+        "assigned_to": "Nico",
+        "date_assigned": "2023-03-16",
+        "completed": true,
+        "date_completed": "2023-03-16",
+        "point_value": 1
+    },
+    "sinkandcounter_kidsbath": {
+        "chore_id": "sinkandcounter_kidsbath",
+        "name": "sink and counter",
+        "frequency": 3,
+        "room": "kids bathroom",
+        "blacklist": [
+            "Mom"
+        ],
+        "assigned_to": "Mya",
+        "date_assigned": "2023-03-16",
+        "completed": true,
+        "date_completed": "2023-03-16",
+        "point_value": 1
+    },
+    "mirror_kidsbath": {
+        "chore_id": "mirror_kidsbath",
+        "name": "mirror",
+        "frequency": 7,
+        "room": "kids bathroom",
+        "blacklist": [
+            "Mom",
+            "Nico",
+            "Mya"
+        ],
+        "assigned_to": "Dad",
+        "date_assigned": "2023-03-16",
+        "completed": true,
+        "date_completed": "2023-03-16",
+        "point_value": 1
+    },
+    "bathtub_kidsbath": {
+        "chore_id": "bathtub_kidsbath",
+        "name": "bathtub",
+        "frequency": 50,
+        "room": "kids bathroom",
+        "blacklist": [
+            "Mom",
+            "Mya",
+            "Nico"
+        ],
+        "assigned_to": "Dad",
+        "date_assigned": "2023-03-16",
+        "completed": true,
+        "date_completed": "2023-03-16",
+        "point_value": 1
+    },
+    "toilett_kidsbath": {
+        "chore_id": "toilett_kidsbath",
+        "name": "toilett",
+        "frequency": 28,
+        "room": "kids bathroom",
+        "blacklist": [
+            "Mom",
+            "Mya",
+            "Nico"
+        ],
+        "assigned_to": "Dad",
+        "date_assigned": "2023-03-16",
+        "completed": true,
+        "date_completed": "2023-03-16",
+        "point_value": 1
+    },
+    "floors_kidsbath": {
+        "chore_id": "floors_kidsbath",
+        "name": "floors",
+        "frequency": 60,
+        "room": "kids bathroom",
+        "blacklist": [
+            "Mom"
+        ],
+        "assigned_to": "Mya",
+        "date_assigned": "2023-03-16",
+        "completed": true,
+        "date_completed": "2023-03-16",
+        "point_value": 1
+    },
+    "sinkandcounter_masterbath": {
+        "chore_id": "sinkandcounter_masterbath",
+        "name": "sink and counter",
+        "frequency": 3,
+        "room": "master bathroom",
+        "blacklist": [
+            "Mom",
+            "Mya",
+            "Nico"
+        ],
+        "assigned_to": "Dad",
+        "date_assigned": "2023-03-16",
+        "completed": true,
+        "date_completed": "2023-03-16",
+        "point_value": 1
+    },
+    "mirror_masterbath": {
+        "chore_id": "mirror_masterbath",
+        "name": "mirror",
+        "frequency": 7,
+        "room": "master bathroom",
+        "blacklist": [
+            "Mom",
+            "Mya",
+            "Nico"
+        ],
+        "assigned_to": "Dad",
+        "date_assigned": "2023-03-16",
+        "completed": true,
+        "date_completed": "2023-03-16",
+        "point_value": 1
+    },
+    "shower_masterbath": {
+        "chore_id": "shower_masterbath",
+        "name": "shower",
+        "frequency": 35,
+        "room": "master bathroom",
+        "blacklist": [
+            "Mom",
+            "Mya",
+            "Nico"
+        ],
+        "assigned_to": "Dad",
+        "date_assigned": "2023-03-16",
+        "completed": true,
+        "date_completed": "2023-03-16",
+        "point_value": 1
+    },
+    "toilett_masterbath": {
+        "chore_id": "toilett_masterbath",
+        "name": "toilett",
+        "frequency": 28,
+        "room": "master bathroom",
+        "blacklist": [
+            "Mom",
+            "Nico",
+            "Mya"
+        ],
+        "assigned_to": "Mya",
+        "date_assigned": "2023-03-16",
+        "completed": true,
+        "date_completed": "2023-03-16",
+        "point_value": 1
+    },
+    "floors_masterbath": {
+        "chore_id": "floors_masterbath",
+        "name": "floors",
+        "frequency": 60,
+        "room": "master bathroom",
+        "blacklist": [
+            "Mya",
+            "Mom",
+            "Nico"
+        ],
+        "assigned_to": "Dad",
+        "date_assigned": "2023-03-16",
+        "completed": true,
+        "date_completed": "2023-03-16",
+        "point_value": 1
+    },
+    "sink_downstairsbath": {
+        "chore_id": "sink_downstairsbath",
+        "name": "sink ",
+        "frequency": 3,
+        "room": "downstairs bathroom",
+        "blacklist": [
+            "Mom",
+            "Mya",
+            "Nico"
+        ],
+        "assigned_to": "Dad",
+        "date_assigned": "2023-03-16",
+        "completed": true,
+        "date_completed": "2023-03-16",
+        "point_value": 1
+    },
+    "mirror_downstairsbath": {
+        "chore_id": "mirror_downstairsbath",
+        "name": "mirror",
+        "frequency": 7,
+        "room": "downstairs bathroom",
+        "blacklist": [
+            "Mom",
+            "Nico",
+            "Mya"
+        ],
+        "assigned_to": "Dad",
+        "date_assigned": "2023-03-16",
+        "completed": true,
+        "date_completed": "2023-03-16",
+        "point_value": 1
+    },
+    "toilett_downstairsbath": {
+        "chore_id": "toilett_downstairsbath",
+        "name": "toilett",
+        "frequency": 28,
+        "room": "downstairs bathroom",
+        "blacklist": [
+            "Mom",
+            "Mya",
+            "Nico"
+        ],
+        "assigned_to": "Dad",
+        "date_assigned": "2023-03-16",
+        "completed": true,
+        "date_completed": "2023-03-16",
+        "point_value": 1
+    },
+    "floor_downstairsbath": {
+        "chore_id": "floor_downstairsbath",
+        "name": "floor",
+        "frequency": 60,
+        "room": "downstairs bathroom",
+        "blacklist": [
+            "Mom"
+        ],
+        "assigned_to": "Nico",
+        "date_assigned": "2023-03-16",
+        "completed": true,
+        "date_completed": "2023-03-16",
+        "point_value": 1
+    },
+    "vacuum_dining": {
+        "chore_id": "vacuum_dining",
+        "name": "vacuum",
+        "frequency": 21,
+        "room": "dining room",
+        "blacklist": [
+            "Mom",
+            "Nico"
+        ],
+        "assigned_to": "Dad",
+        "date_assigned": "2023-03-16",
+        "completed": true,
+        "date_completed": "2023-03-16",
+        "point_value": 1
+    },
+    "tidyup_dining": {
+        "chore_id": "tidyup_dining",
+        "name": "tidy up",
+        "frequency": 2,
+        "room": "dining room",
+        "blacklist": [
+            "Mom",
+            "Dad"
+        ],
+        "assigned_to": "Mya",
+        "date_assigned": "2023-03-16",
+        "completed": true,
+        "date_completed": "2023-03-16",
+        "point_value": 1
+    },
+    "table_dining": {
+        "chore_id": "table_dining",
+        "name": "table",
+        "frequency": 1,
+        "room": "dining room",
+        "blacklist": [
+            "Mom"
+        ],
+        "assigned_to": "Mya",
+        "date_assigned": "2023-03-16",
+        "completed": true,
+        "date_completed": "2023-03-16",
+        "point_value": 1
+    },
+    "sortmail_office": {
+        "chore_id": "sortmail_office",
+        "name": "sort mail",
+        "frequency": 7,
+        "room": "office",
+        "blacklist": [
+            "Mom",
+            "Mya",
+            "Nico"
+        ],
+        "assigned_to": "Nico",
+        "date_assigned": "2023-03-16",
+        "completed": true,
+        "date_completed": "2023-03-16",
+        "point_value": 1
+    },
+    "toaster_kitchen": {
+        "chore_id": "toaster_kitchen",
+        "name": "toaster",
+        "frequency": 60,
+        "room": "kitchen",
+        "blacklist": [
+            "Mom",
+            "Mya",
+            "Nico"
+        ],
+        "assigned_to": "Dad",
+        "date_assigned": "2023-03-16",
+        "completed": true,
+        "date_completed": "2023-03-16",
+        "point_value": 1
+    },
+    "microwave_kitchen": {
+        "chore_id": "microwave_kitchen",
+        "name": "microwave",
+        "frequency": 45,
+        "room": "kitchen",
+        "blacklist": [
+            "Mom",
+            "Mya",
+            "Nico"
+        ],
+        "assigned_to": "Dad",
+        "date_assigned": "2023-03-16",
+        "completed": true,
+        "date_completed": "2023-03-16",
+        "point_value": 1
+    },
+    "oven_kitchen": {
+        "chore_id": "oven_kitchen",
+        "name": "oven",
+        "frequency": 120,
+        "room": "kitchen",
+        "blacklist": [
+            "Mom",
+            "Mya",
+            "Nico"
+        ],
+        "assigned_to": "Dad",
+        "date_assigned": "2023-03-16",
+        "completed": true,
+        "date_completed": "2023-03-16",
+        "point_value": 1
+    },
+    "sink_kitchen": {
+        "chore_id": "sink_kitchen",
+        "name": "sink",
+        "frequency": 6,
+        "room": "kitchen",
+        "blacklist": [
+            "Mom",
+            "Mya",
+            "Nico"
+        ],
+        "assigned_to": "Dad",
+        "date_assigned": "2023-03-16",
+        "completed": true,
+        "date_completed": "2023-03-16",
+        "point_value": 1
+    },
+    "counters_kitchen": {
+        "chore_id": "counters_kitchen",
+        "name": "counters",
+        "frequency": 2,
+        "room": "kitchen",
+        "blacklist": [
+            "Mom",
+            "Mya",
+            "Nico"
+        ],
+        "assigned_to": "Dad",
+        "date_assigned": "2023-03-16",
+        "completed": true,
+        "date_completed": "2023-03-16",
+        "point_value": 1
+    },
+    "coffeemachine_kitchen": {
+        "chore_id": "coffeemachine_kitchen",
+        "name": "coffee machine",
+        "frequency": 50,
+        "room": "kitchen ",
+        "blacklist": [
+            "Mom",
+            "Mya",
+            "Nico"
+        ],
+        "assigned_to": "Dad",
+        "date_assigned": "2023-03-16",
+        "completed": true,
+        "date_completed": "2023-03-16",
+        "point_value": 1
+    },
+    "refirgerator_kitchen": {
+        "chore_id": "refirgerator_kitchen",
+        "name": "refirgerator",
+        "frequency": 7,
+        "room": "kitchen",
+        "blacklist": [
+            "Mom",
+            "Mya",
+            "Nico"
+        ],
+        "assigned_to": "Dad",
+        "date_assigned": "2023-03-16",
+        "completed": true,
+        "date_completed": "2023-03-16",
+        "point_value": 1
+    },
+    "refirgerator_kitchen_1": {
+        "chore_id": "refirgerator_kitchen_1",
+        "name": "refirgerator",
+        "frequency": "1",
+        "room": "kitchen",
+        "blacklist": [],
+        "assigned_to": "Mom",
+        "date_assigned": "2023-03-16",
+        "completed": false,
+        "date_completed": null,
+        "point_value": 1
+    }
+}

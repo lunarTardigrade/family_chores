@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Mom",
+        "is_admin": false,
+        "scores": []
+    },
+    {
+        "id": 2,
+        "name": "Dad",
+        "is_admin": true,
+        "scores": []
+    },
+    {
+        "id": 1,
+        "name": "Mya",
+        "is_admin": false,
+        "scores": []
+    },
+    {
+        "id": 1,
+        "name": "Nico",
+        "is_admin": false,
+        "scores": []
+    }
+]

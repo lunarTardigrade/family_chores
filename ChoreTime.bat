@@ -1,0 +1,1 @@
+python C:\Users\alope\Desktop\choreTime!\ui.py
