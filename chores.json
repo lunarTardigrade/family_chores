@@ -524,17 +524,5 @@
         "completed": true,
         "date_completed": "2023-03-16",
         "point_value": 1
-    },
-    "refirgerator_kitchen_1": {
-        "chore_id": "refirgerator_kitchen_1",
-        "name": "refirgerator",
-        "frequency": "1",
-        "room": "kitchen",
-        "blacklist": [],
-        "assigned_to": "Mom",
-        "date_assigned": "2023-03-16",
-        "completed": false,
-        "date_completed": null,
-        "point_value": 1
     }
 }
