@@ -10,9 +10,9 @@
             "Mom"
         ],
         "assigned_to": "Dad",
-        "date_assigned": "2023-03-16",
-        "completed": true,
-        "date_completed": "2023-03-16",
+        "date_assigned": "2023-03-23",
+        "completed": false,
+        "date_completed": null,
         "point_value": 1
     },
     "windows_mya's": {
@@ -38,10 +38,10 @@
             "Mom",
             "Dad"
         ],
-        "assigned_to": "Mom",
-        "date_assigned": "2023-03-16",
-        "completed": true,
-        "date_completed": "2023-03-16",
+        "assigned_to": "Mya",
+        "date_assigned": "2023-03-23",
+        "completed": false,
+        "date_completed": null,
         "point_value": 1
     },
     "windows_masterbed": {
@@ -69,9 +69,9 @@
             "Mom"
         ],
         "assigned_to": "Dad",
-        "date_assigned": "2023-03-16",
-        "completed": true,
-        "date_completed": "2023-03-16",
+        "date_assigned": "2023-03-23",
+        "completed": false,
+        "date_completed": null,
         "point_value": 1
     },
     "washbedding_masterbed": {
@@ -130,9 +130,9 @@
             "Mom"
         ],
         "assigned_to": "Nico",
-        "date_assigned": "2023-03-16",
-        "completed": true,
-        "date_completed": "2023-03-16",
+        "date_assigned": "2023-03-23",
+        "completed": false,
+        "date_completed": null,
         "point_value": 1
     },
     "sinkandcounter_kidsbath": {
@@ -144,9 +144,9 @@
             "Mom"
         ],
         "assigned_to": "Mya",
-        "date_assigned": "2023-03-16",
-        "completed": true,
-        "date_completed": "2023-03-16",
+        "date_assigned": "2023-03-23",
+        "completed": false,
+        "date_completed": null,
         "point_value": 1
     },
     "mirror_kidsbath": {
@@ -160,9 +160,9 @@
             "Mya"
         ],
         "assigned_to": "Dad",
-        "date_assigned": "2023-03-16",
-        "completed": true,
-        "date_completed": "2023-03-16",
+        "date_assigned": "2023-03-23",
+        "completed": false,
+        "date_completed": null,
         "point_value": 1
     },
     "bathtub_kidsbath": {
@@ -222,9 +222,9 @@
             "Nico"
         ],
         "assigned_to": "Dad",
-        "date_assigned": "2023-03-16",
-        "completed": true,
-        "date_completed": "2023-03-16",
+        "date_assigned": "2023-03-23",
+        "completed": false,
+        "date_completed": null,
         "point_value": 1
     },
     "mirror_masterbath": {
@@ -238,9 +238,9 @@
             "Nico"
         ],
         "assigned_to": "Dad",
-        "date_assigned": "2023-03-16",
-        "completed": true,
-        "date_completed": "2023-03-16",
+        "date_assigned": "2023-03-23",
+        "completed": false,
+        "date_completed": null,
         "point_value": 1
     },
     "shower_masterbath": {
@@ -302,9 +302,9 @@
             "Nico"
         ],
         "assigned_to": "Dad",
-        "date_assigned": "2023-03-16",
-        "completed": true,
-        "date_completed": "2023-03-16",
+        "date_assigned": "2023-03-23",
+        "completed": false,
+        "date_completed": null,
         "point_value": 1
     },
     "mirror_downstairsbath": {
@@ -318,9 +318,9 @@
             "Mya"
         ],
         "assigned_to": "Dad",
-        "date_assigned": "2023-03-16",
-        "completed": true,
-        "date_completed": "2023-03-16",
+        "date_assigned": "2023-03-23",
+        "completed": false,
+        "date_completed": null,
         "point_value": 1
     },
     "toilett_downstairsbath": {
@@ -377,10 +377,10 @@
             "Mom",
             "Dad"
         ],
-        "assigned_to": "Mya",
-        "date_assigned": "2023-03-16",
-        "completed": true,
-        "date_completed": "2023-03-16",
+        "assigned_to": "Nico",
+        "date_assigned": "2023-03-23",
+        "completed": false,
+        "date_completed": null,
         "point_value": 1
     },
     "table_dining": {
@@ -392,9 +392,9 @@
             "Mom"
         ],
         "assigned_to": "Mya",
-        "date_assigned": "2023-03-16",
-        "completed": true,
-        "date_completed": "2023-03-16",
+        "date_assigned": "2023-03-23",
+        "completed": false,
+        "date_completed": null,
         "point_value": 1
     },
     "sortmail_office": {
@@ -407,10 +407,10 @@
             "Mya",
             "Nico"
         ],
-        "assigned_to": "Nico",
-        "date_assigned": "2023-03-16",
-        "completed": true,
-        "date_completed": "2023-03-16",
+        "assigned_to": "Dad",
+        "date_assigned": "2023-03-23",
+        "completed": false,
+        "date_completed": null,
         "point_value": 1
     },
     "toaster_kitchen": {
@@ -472,9 +472,9 @@
             "Nico"
         ],
         "assigned_to": "Dad",
-        "date_assigned": "2023-03-16",
-        "completed": true,
-        "date_completed": "2023-03-16",
+        "date_assigned": "2023-03-23",
+        "completed": false,
+        "date_completed": null,
         "point_value": 1
     },
     "counters_kitchen": {
@@ -488,9 +488,9 @@
             "Nico"
         ],
         "assigned_to": "Dad",
-        "date_assigned": "2023-03-16",
+        "date_assigned": "2023-03-23",
         "completed": true,
-        "date_completed": "2023-03-16",
+        "date_completed": "2023-03-23",
         "point_value": 1
     },
     "coffeemachine_kitchen": {
@@ -520,9 +520,38 @@
             "Nico"
         ],
         "assigned_to": "Dad",
-        "date_assigned": "2023-03-16",
-        "completed": true,
-        "date_completed": "2023-03-16",
+        "date_assigned": "2023-03-23",
+        "completed": false,
+        "date_completed": null,
+        "point_value": 1
+    },
+    "floor_kitchen_1": {
+        "chore_id": "floor_kitchen_1",
+        "name": "floor",
+        "frequency": 4,
+        "room": "kitchen",
+        "blacklist": [
+            "Mom"
+        ],
+        "assigned_to": "Dad",
+        "date_assigned": "2023-03-23",
+        "completed": false,
+        "date_completed": null,
+        "point_value": 1
+    },
+    "feedpipin_kitchen_1": {
+        "chore_id": "feedpipin_kitchen_1",
+        "name": "feed Pipin",
+        "frequency": 1,
+        "room": "kitchen",
+        "blacklist": [
+            "Mom",
+            "Dad"
+        ],
+        "assigned_to": "Mya",
+        "date_assigned": "2023-03-23",
+        "completed": false,
+        "date_completed": null,
         "point_value": 1
     }
 }

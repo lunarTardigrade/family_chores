@@ -185,7 +185,7 @@ class NewChoreScreen:
         room = self.room_entry.get()
         frequency = self.frequency_entry.get()
 
-        self.parent.chores = chore_time.new_chore(self.parent.chores,name,room,frequency,self.parent.family_members)
+        self.parent.chores = chore_time.new_chore(name,room,frequency,self.parent.family_members)
 
         # Clear the input boxes
         self.name_entry.delete(0, tk.END)

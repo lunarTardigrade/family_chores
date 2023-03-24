@@ -146,8 +146,9 @@ class ChoreRepository:
         self.save_chores_to_file(chores)
 
 
-def new_chore(chores, name, room, frequency, family_members, point_value=1):
+def new_chore(name, room, frequency, family_members, point_value=1):
     # Generate a unique chore ID based on the name and room
+    chores = ChoreRepository("chores.json").load_chores()
     base_chore_id = name.lower().replace(" ", "") + "_" + room.lower().replace("room", "").replace(" ", "")
     i = 1
     while True:
@@ -163,6 +164,8 @@ def new_chore(chores, name, room, frequency, family_members, point_value=1):
     new_chore.completed = False
     new_chore.date_completed = None
     new_chore.point_value = point_value
+    
+    
     
     # Add the new chore to the dictionary of chores
     chores[new_chore.chore_id] = new_chore

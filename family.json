@@ -9,18 +9,57 @@
         "id": 2,
         "name": "Dad",
         "is_admin": true,
-        "scores": []
+        "scores": [
+            {
+                "points": 1,
+                "date": "2023-03-18"
+            },
+            {
+                "points": 1,
+                "date": "2023-03-18"
+            },
+            {
+                "points": 1,
+                "date": "2023-03-18"
+            }
+        ]
     },
     {
         "id": 1,
         "name": "Mya",
         "is_admin": false,
-        "scores": []
+        "scores": [
+            {
+                "points": 1,
+                "date": "2023-03-17"
+            },
+            {
+                "points": 1,
+                "date": "2023-03-18"
+            },
+            {
+                "points": 1,
+                "date": "2023-03-19"
+            }
+        ]
     },
     {
         "id": 1,
         "name": "Nico",
         "is_admin": false,
-        "scores": []
+        "scores": [
+            {
+                "points": 1,
+                "date": "2023-03-17"
+            },
+            {
+                "points": 1,
+                "date": "2023-03-18"
+            },
+            {
+                "points": 1,
+                "date": "2023-03-18"
+            }
+        ]
     }
 ]
